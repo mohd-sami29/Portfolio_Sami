@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Shipment Tracking Management System",
+    "desc": " Logistic Data Management System for uploading, dispatching, and tracking logistic data, Built using ReactJs , Redux-Toolkit , MUI, Tailwind-CSS.",
+    "image": "OWMTracking",
+    "category": "mern",
+    "links": {
+      "view": "https://owmtracking.globushub.com/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Task Management System",
+    "desc": "The app facilitates group creation, and assignment distribution. Users can add new employees, create groups, and assign tasks to individuals or groups.",
+    "image": "EmployeeManagement",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": " Streamlined Stock and Invoice Management for Retailers",
+    "desc": "The online grocery shop project. The online grocery shopping system directly delivers products to customers' addresses",
+    "image": "Grocery",
+    "category": "mern",
+    "links": {
+      "view": "https://scintillating-stardust-fa701c.netlify.app/",
+      "code": "https://github.com/miteshpr97/Groceries_Store"
+    }
+  }
+]
